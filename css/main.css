@@ -1,0 +1,21 @@
+
+div{
+	width: 100px;
+	height: 100px;
+	background-color: #5E7A7A;
+	margin: 10px;
+	border: 1px solid black;
+}
+
+.madre{
+	display: inline-block;
+}
+
+.padre{
+	width: 380px;
+	height: 122px;
+}
+.hijo{
+	display: inline-block;
+}
+
